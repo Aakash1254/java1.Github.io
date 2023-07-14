@@ -12,7 +12,7 @@ To run the program, you need to have Java installed on your machine. Follow thes
 
 3. Compile the Java file using the `javac` command:
 
-# javac Solution1.java
+# javac Solution1.java okk my name is akash
 
 4. Run the compiled program using the java command:
 
